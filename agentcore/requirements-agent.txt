@@ -1,0 +1,10 @@
+strands-agents
+strands-agents-tools
+boto3>=1.40.8
+botocore>=1.40.8
+bedrock-agentcore-starter-toolkit>=0.2.3
+bedrock-agentcore>=1.1.1
+ddgs
+aws-opentelemetry-distro~=0.10.1
+pyyaml
+retrying
